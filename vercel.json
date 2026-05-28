@@ -2,7 +2,10 @@
   "builds": [
     {
       "src": "server_agentic.py",
-      "use": "@vercel/python"
+      "use": "@vercel/python",
+      "config": {
+        "runtime": "python3.11"
+      }
     }
   ],
   "routes": [
