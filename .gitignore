@@ -1,0 +1,48 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# API Keys and secrets (IMPORTANT!)
+*.key
+*.pem
+.secrets/
+openrouter_key.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database files
+*.db
+*.sqlite
+
+# Local configuration
+.env.local
+.env.*.local
+
+# Backup files
+*.bak
+*.backup
+
+# Server files
+*.pid

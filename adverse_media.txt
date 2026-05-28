@@ -1,0 +1,395 @@
+I. OVERVIEW
+1. Name age and nationality [As listed in the ID documents]
+2. ID&IDWL: [Verification document link and is the document [Genuine /
+Fake / Edited]. The state if an alternative ID verification method was
+used (e.g. e-KYC, My-number, SSN)]
+3. Email: [Is there a name mismatch? Do we need to profile the customer or
+add an account helper]
+4. Address:
+5. PoA (If collected): [link to the document and is the document: [Genuine /
+Fake / Edited]]
+6. Plastic Address:
+7. Phone from:
+8. IPs from: [List the IPs. Is there any mismatch with the address of the
+customer? Any IPs shared with other Wise users? Do any shared IPs
+raise concerns?]
+●
+For Address, Plastic Address, Phone and IP mismatches - do we
+understand the reason behind a mismatch? Is there a reasonable
+explanation for a mismatch?
+9. Devices from: [List countries and SIMs. Is there any connection between
+the customer and the individuals seen under shared devices? Is the
+connection suspicious? Does it make sense? How do we mitigate this?]
+10. Duplicate accounts: [yes/no - if there are, link them and list if they are
+active and follow the duplicate accounts procedure if needed. Was the
+duplicate account deactivated for fincrime reason? Follow the guidance
+here.]
+11. Online presence check on the customer: [Any Online profiles identified?
+List the identified profiles. Is there any information from the online
+profile that we can use for the EDD review? Employment information,
+shared photos, any concerning posts about any restricted AUP
+products?]
+12. State any concerning connections: [Does the customer have any
+connections (shared recipients, payins etc.) with other Wise customers
+with financial crime concerns? For example deactivated for fraud or
+AML, or currently under investigation, or AUP breach that could lead to
+financial crime concerns (i.e., P2P crypto trading)?]
+Check all the evidence collected for the customer, including (but not limited to)
+- Account Purpose, Annual Volume, Annual Income, Source of Income,
+Expected Countries, Occupation, Currencies etc. Ask the following questions:
+●
+●
+Does all this information make sense (i.e., does the customer’s stated annual
+volume make sense in relation to their annual income)?
+Does the customer’s occupation align with their stated income?
+●
+Does the account purpose make sense with their occupation and
+expectedcountries?
+Analyse the customer's Source of Funds and Source of Wealth:
+●
+●
+Use the information provided by the customer in the workflow to identify
+the SoF and SoW.
+Compare the evidence provided by the customer and check if it's
+plausible in considering their profile - age, professional background,
+jurisdiction, online presence.
+○
+Is there a reasonable explanation for the customer to establish the
+business relationship with Wise?
+○
+Is there any sign that the SoF/SoW derived from illicit sources?
+○
+The identification of the SoF is very closely linked to the account
+purpose, does it make sense for the customer to establish a
+relationship with Wise?
+○
+The identification of SoW is closely linked to the customer’s overall
+profile - do we have any estimations on the customer’s overall body of
+wealth, and we understand how that wealth was generated?
+○
+Look out for indicators if the SoF/SoW is derived from the proceeds of
+crime, or if there is any Adverse Media on the customer suggesting
+that?
+Provide a summary of the above in free form, outlining any concerns if
+present.
+II. USE CASE & ACTIVITY
+1. Transaction Patterns: [Only if you find discrepancies from the first review
+or if the last EDD review was done more than 3 months ago.]
+2. Top Senders / Recipients: [List the top senders and recipients and their
+names. Highlight their jurisdictions if applicable. Conduct an online
+search for them. Mention if you have identified any concerns during the
+online presence. Review the references on the transfers and amounts,
+do they raise any concerns? Follow the checklist below and only ask for
+additional information if needed.]
+a. Name relationship to customer [Same surname? Clear family
+connection?]
+b. Location/Country [Makes sense for customer profile?]
+c. If Wise user — check account status [Active? Deactivated? By which
+team?]
+d. Transaction pattern [Regular? Rounded amounts? References?]
+e. Alignment with customer's use case [Does this connection make
+sense?]
+3. Currency routes and jurisdictions: [List the jurisdictions the customer
+sends to and from, do they raise any concerns?]
+4. 12MV Totals: [Total inflows/outflows]
+Use Case: [Include if applicable. Examples:P2P Crypto Trading, Business
+Payments from Personal Profile, Facilitating 3rd Party Payments, Payments
+from Unsupported Platforms (OnlyFans, etc)]
+Explain how the Wise account is used. Ask the following questions:
+●
+●
+●
+●
+●
+What's the purpose of the Wise account?
+What are the main currencies used and currency routes (compare the actual
+activity with the evidence provided during CDD and with the expected activity
+from the customer in Section 1.)?
+Does customer’s activity raise concerns, or is it in line with the expected?
+Does customer activity make sense?
+Can the customer's activity be used to verify the SoF/SoW?
+III. SOURCE OF FUNDS / SOURCE OF WEALTH - DOCUMENTS REVIEW
+Source of Funds:
+● [Doc 1: brief description + assessment]
+● [Doc 2: brief description + assessment]
+Source of Wealth:
+● [Doc 1: brief description + assessment]
+● [Doc 2: brief description + assessment]
+[Any information provided by the customer in regards to SoF/SoW needs to be
+accompanied by an online presence check of the activity of the source of the
+customer’s funds and wealth. Ensure that the source is legitimate and doesn't
+raise AUP-related concerns.]
+Indicate whether you are rejecting the document for the next reviewer or
+accepting it on an exceptional basis. [You should elaborate on why you're
+rejecting or accepting the document by providing a very detailed description.]
+Check other customer communications: [Make sure to check Zendesk, Ringlite,
+Enquiries and add any notes if relevant info was found.]
+Review instructions
+Leave a comment about the provided documentation. Ask the following
+questions:
+●
+●
+●
+●
+Does the documentary evidence provided by the customer verify the
+previously identified information?
+Are there any red flags or concerning activity present on the documentation
+provided by the customer?
+If the customer has provided the external bank statements, is activity on the
+external bank statement in line with what we know about the customer?
+Are there any suspicious or cash transactions present?
+Check if there are files under processing in the Verification page.
+Check previously rejected documents to see if anything was missed by previous
+reviewers.
+ADVERSE MEDIA SCREENING
+[You have to conduct AMS for all EDD reviews. More info here: V. Adverse
+Media Search
+]
+Adverse media conducted via Google Search using the adverse media search tool
+on the EDD page in
+______ (insert relevant languages) using keywords: ________
+(insert name(s) and relevant variations, e.g., “John Arthur Doe”, “John Doe”, “Arthur
+Doe”). Nothing derogatory found on pages 1-2 of any search or Adverse media
+found:
+___________ (summarise the findings and list most relevant/trustworthy links)
+Conclusion
+● My Understanding from Previous Agent (or just a summary if you are the first
+reviewer): [Brief summary of case status, pending items, summary of actions,
+include any red flags & how they're mitigated. Write your own analysis of the
+case, rather than copying and pasting the narrative from the previous
+reviewer.]
+● My Observations on Customer Experience: [Are there too many touchpoints?
+Has the same document been rejected multiple times? Does the customer
+appear confused? Is the customer cooperative? Did we request the correct
+documentation in previous reviews? Add any relevant observations.]
+● What I Have Done & Why: [Brief summary of case status, pending items,
+summary of actions and rationale. Include any additional red flags & actions
+on how you’ve mitigated them.]
+● Important Notes for the Next Agent: [If the case requires additional information.
+(Clear notes on what to do next or be aware of)]
+Final Action Taken:
+● [ ] Approved & Threshold Set
+● [ ] Offboarded (Reason):
+● [ ] Info Requested (Specify): [Via Enquiries or + Link Zendesk]
+Income vs TH Check:
+● [ ] Matches
+● [ ] Updated [Edit the income range/type in KYC Admin + note the specific
+update you made in Watson]
+Adverse Media Search
+What to include
+All relevant parties: Profile holder
+●
+●
+●
+○
+Manually check personal account and include the full name of PH.
+Top 2 senders and top 2 recipients listed in the Watson "Tops" tab (conduct
+the search in English only)
+○
+For new customers: conduct AMS on the sender/recipient of the
+suspended transfer (if it’s not a feature charge)
+○
+For large financial institutions, e-commerce or PSP platforms (Amazon,
+Vinted, Paypal, Shareworks, etc.): skip, and conduct AMS on the
+following senders/recipients, as needed.
+○
+If AMS was done in the last 6 months but there were no top senders or
+recipients at the time, conduct AMS on the current ones.
+Name of the business, subsidiaries
+○
+Relevant in case the personal Source of Wealth is generated from the
+business.
+Conduct AMS on any parties missing from previous reviews.
+Check all relevant name variations
+Negative strings - Keywords narrow down adverse Google results, and are preset in
+the DD tool during the Google search.
+Search in English and all relevant languages: AMS must be conducted in English.
+●
+AMS must also be conducted in all languages with a connection to the
+customer. The languages are determined by:
+○
+the account holder’s birthplace
+○
+the account holder’s nationality
+○
+the account holder’s countries of residence
+●
+●
+Find nationality evidence on the Verification page.
+All relevant languages should already be listed in the DD tool, though some
+relevant languages may not be listed on AMS search links. If these languages
+aren’t included in the DD AM tool, conduct a manual search.
+○
+Include additional languages only if the information is available from
+our tooling or from online search, and only for the customer (not other
+parties).
+Relevant name variations: Use transliteration where needed (e.g. Russian, Greek,
+Arabic).
+●
+●
+●
+●
+●
+●
+Check and use full name from the ID — customers don’t always use their full
+name on the account, but it is visible on the ID and in Ninjas2 under Verified
+name.
+If the profile holder has more than a first and last name, for example, a middle
+name, then check main name variations as well.
+○
+I.e. if the customer’s name is “Mary Alice Checker”, search for
+variations Mary Checker, Alice Checker, Mary Alice Checker, Mary A.
+Checker).
+You don't have to check every possible name variation. Use RBA and check
+for main name variations. To select the name variations to check, you can use
+other info available to us (e.g. name in a Linkedin profile, social media,
+company website etc; or based on cultural factors). Note down the variations
+you checked in your notes.
+Consider cultural factors (e.g. patronymics, surname before given name in
+Hungary).
+Search with the customer’s nicknames, in case this is evident from Ninjas,
+email correspondence, or online presence (“Nicholas Cage”, “Nick Cage”).
+Search with maiden and married names, if we have this knowledge.
+How to analyse Adverse media
+ID matches — is it the right person? Strong evidence - We have strong evidence of
+an ID match when none of the following are true:
+●
+●
+●
+●
+●
+●
+Name mismatch — Hits from name variations can be excluded for individuals
+and businesses by considering different name components.
+Original name mismatch — if we know the customer’s original name in
+Chinese or Japanese characters and that name differs from the ID document
+we hold at Wise, we can rule out the hit.
+Photo mismatch — Compare customer's photo in Ninjas with Adverse Media
+articles. Rule out a mismatch if found.
+Gender mismatch
+Age mismatch — if the source links state the age of the Adverse Media hit
+when the event that led to the AM occurred. If our customer was younger or
+older at the time of the event, we can rule out the hit.
+Mismatch mother’s/father’s name — this’s evidenced by verified documents
+in jurisdictions where the parent’s name is commonly part of the KYC process,
+for example India (father’s name) or Hungary (mother’s name).
+If you have confirmed the ID matches and the finding refers to the customer, we can
+proceed to analyse whether such finding is material to Wise.
+Evidence is weak - Open source check shows no indication of our customer being
+linked to the Adverse Media.
+●
+●
+●
+●
+●
+Very common name in the relevant jurisdiction and only year of birth match.
+Location mismatch when the event that led to the Adverse Media occurred,
+during a subsequent prison sentence etc.
+Different employment or education history according to open source check or
+customer confirmation.
+Different name of family members according to open source check or
+customer confirmation.
+Mismatch mother’s / father’s name (based on customer confirmation).
+Material findings — is it relevant for Wise? Any kind of criminal conduct relating to
+money or to financial services or markets, including any offence involving:
+●
+●
+●
+●
+Fraud or dishonesty such as Identity theft, counterfeit and pirated goods,
+forgery of documents, bribery, corruption, tax evasion and Ponzi schemes.
+Misconduct in, or misuse of information relating to, a financial market such as
+market abuse and insider dealing.
+Money laundering
+Terrorism financing
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Terrorism, including terrorism financing
+Illicit arms trafficking
+Trafficking in human beings and migrant smuggling
+Sexual exploitation, including sexual exploitation of children
+Illicit trafficking in narcotic drugs and psychotropic substances
+Illicit trafficking in stolen and other goods
+Counterfeiting currency
+Counterfeiting and piracy of products
+Environmental crimes
+Murder, grievous bodily injury
+Corruption and bribery
+Fraud
+Kidnapping
+Illegal restraint and hostage taking
+Robbery or theft (not petty crimes)
+Insider trading and market manipulation
+Smuggling (including in relation to customs and excise duties and taxes)
+●
+Tax crimes (related to both direct taxes and indirect taxes)
+●
+●
+●
+●
+Extortion
+Forgery piracy
+Participation in an organised criminal group
+Any other serious financial, non-financial crimes with illicit gains or due to the
+seriousness of the result
+Sources- Consider whether the sources are credible.
+●
+●
+●
+●
+Media type: Internal news agencies and national newspapers are seen as
+higher quality sources than regional and local providers.
+Content: Impartial opinions enhance credibility. Check for professionalism:
+details, sources, footnotes, quotes, website appearance increase credibility.
+Number of sources: Credibility increases with more credible sources.
+Geopolitical context: Trust politically neutral sources for credibility. Be
+cautious of news from countries with limited democracy or press freedom.
+Use a risk-based approach for non-credible sources with strong evidence.
+Timeline: Consider relevance of Adverse Media alerts based on when the behaviour
+occurred. Timing and follow-up incidents impact significance for convictions and
+allegations.
+Adverse Media related to terrorism does’t expire. In these cases you must also
+submit a SAR.
+●
+●
+●
+Allegations within 5 years are considered. If there’s no investigation or
+conviction for more than 5 years, they may be deemed unfounded or
+irrelevant for action. Similarly investigations cases older than 5 years without
+updates may be deemed immaterial or of little risk to not warrant any attention
+or further action. Updates would be detected in ongoing monitoring.
+Consider prosecutions and convictions within a 10-year timeframe.
+Convictions in the last decade remain relevant for assessing risks, including
+reputational and money laundering risks, as well as the likelihood of fine
+repayment. Beyond 10 years, without new Adverse Media, we prioritise
+financial inclusion to maintain relationships.
+Expired or irrelevant disqualifications/bans, like a former banned director now
+working as an employee.
+If the relevant time has passed and there's no subsequent Adverse Media, we
+respect the concept of financial inclusion and continue the relationship.
+Evidence saving steps for true positive hits (mandatory)- Save of the source
+talking about the adverse media in PDF - for example newspaper article - and
+upload the file to the Ninja1 page
+●
+How to save: right click → print → save as PDF
+If you're checking several sources connected to the same incident, only one
+source is required. Make sure that the source is reputable.
+If the customer has been involved in several incidents, save each evidence.
+For example, if the customer was accused of corruption in 2022 and of money
+laundering in 2024, we need documents evidencing each event. Confirmed AMS
+about our customers or entities must be supported by an internal SAR.
